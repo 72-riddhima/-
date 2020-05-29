@@ -23,7 +23,6 @@
 <hr size=3 noshade>
 <h3><a href="Contact Information.html">My Contact Information</a></h3>
     <br>
-    
 <h3>Sugested Websites</h3>
 <h3>click on the given text to veiw their websites/webpages</h3>
 <ol>
