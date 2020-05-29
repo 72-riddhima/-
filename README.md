@@ -11,7 +11,7 @@
             <td><img src="circle-cropped.png" alt="Riddhima' picture"></td>
             <td><h1>Riddhima Gurnani</h1>
                 <p><em>I am a student in <strong><a href="http://www.tsrs.org/reach-us/contact-us/">The Shri Ram school Aravili</a></strong></em></p>
-             <p>I am an animal lover and have 2 beautiful looking dogs. I love IT & Yoga and want to become an IT Proffesional!</p>   </td>
+             <p>I am an animal lover and have 2 beautiful looking dogs at home. I love IT & Yoga and want to become an IT Proffesional!</p>   </td>
         </tr>
     </table>
 <h3><a href="Awards.html">Awards</a></h3>
