@@ -17,11 +17,11 @@
     
     
 
-<h3><a href="Awards.html">Awards</h3></a>
+<a href="Awards.html">Awards</a>
 <br>
 <h3><a href="My Hobbies.html">My Hobbies</a></h3>
 <br>
-<h3><a href="Contact Information.html">My Contact Information</a></h3>
+<a href="Contact Information.html">My Contact Information</a>
 </ul>
 <h3>Sugested Websites</h3>
 <h3>click on the given text to veiw their websites/webpages</h3>
