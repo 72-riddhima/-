@@ -14,13 +14,10 @@
              <p>I am an animal lover and have 2 beautiful looking dogs. I love IT & Yoga and want to become an IT Proffesional!</p>   </td>
         </tr>
     </table>
-<hr size=3 noshade>
 <h3><a href="Awards.html">Awards</a></h3>
     <br>
-<hr size=3 noshade>
 <h3><a href="My Hobbies.html">My Hobbies</a></h3>
     <br>
-<hr size=3 noshade>
 <h3><a href="Contact Information.html">My Contact Information</a></h3>
     <br>
     
