@@ -107,6 +107,6 @@
 
 
 
-<h4>website maker= Riddhima Gurnani</h4>
+<h4>website maker= Riddhima Gurnani/Codestriker</h4>
 </body>
 </html>
